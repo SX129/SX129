@@ -6,7 +6,7 @@ I'm a self-taught software developer looking to improve my skills day by day. I 
 
 
 ## 🛠 Skills
-Python, C/C++, Bash, SQL, TypeScript, Java, Javascript, HTML, CSS, React, GraphQL, MongoDB, Spring Framework, Maven, TailWindCSS, Express, Node, Next.JS, Node, AWS S3, PineconeDB, PostgreSQL, NeonDB, Vite.JS
+Python, C/C++, Bash, SQL, TypeScript, Java, Javascript, HTML, CSS, React, GraphQL, MongoDB, Spring Framework, Maven, TailWindCSS, Express, Node, Next.JS, AWS S3, PineconeDB, PostgreSQL, NeonDB, Vite.JS
 
 
 ## 🔗 Links
