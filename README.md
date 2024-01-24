@@ -6,7 +6,14 @@ I'm a self-taught software developer looking to improve my skills day by day. I 
 
 
 ## 🛠 Skills
-Python, C/C++, Bash, SQL, TypeScript, Java, Javascript, HTML, CSS, React, GraphQL, MongoDB, Spring Framework, Maven, TailWindCSS, Express, Node, Next.JS, AWS S3, PineconeDB, PostgreSQL, NoSQL, NeonDB, Vite.JS
+Languages: Java, Python, C++, SQL, HTML, JavaScript, CSS, TypeScript, Bash
+Technologies: GraphQL, Next.JS, React, TailwindCSS, ClerkAuth, OpenAI APIs, Stripe, Vercel (Edge Runtime), Node.JS, DrizzleORM, LangChain, tRPC, PayloadCMS, Express, Resend, Vite.JS, Expo, React Native, JUnit 5, Spring Boot, Maven, Apollo, Ubuntu, Linux, MUI, Lucide, ShadCN
+
+Cloud & Databases: MySQL, MongoDB, NeonDB, PineconeDB, AWS S3
+
+Development and DevOps Tools: Git, SCCM, Docker, Postman, Jenkins, Airbyte, Jira, Bitbucket, SonarQube, FarosAI
+
+Methodologies & Frameworks: Scrum, Agile, Microservices, Omnichannel, Retrieval Augmented Generation (RAG)
 
 
 ## 🔗 Links
