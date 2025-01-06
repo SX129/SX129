@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a self-taught software developer, continuously striving to improve my skills every day. I passion for programming began during my final year of undergrad at the University of Houston, and since graduating, I’ve committed to turning that passion into a fulfilling career—pursuing a lifetime of learning along the way!
+I'm a self-taught software developer, continuously striving to improve my skills every day. My passion for programming began during my final year of undergrad at the University of Houston, and since graduating, I’ve dedicated myself to turning that passion into a fulfilling career—pursuing a lifetime of learning along the way!
 
 
 ## 🛠 Skills
