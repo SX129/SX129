@@ -19,3 +19,4 @@ Methodologies & Frameworks: Scrum, Agile, Microservices, Omnichannel, Retrieval 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-nguyen682/)
+[![website](https://img.shields.io/badge/Website%20Portfolio-8A2BE2?style=for-the-badge)](https://www.henry-nguyen.com/)
