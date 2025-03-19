@@ -6,15 +6,15 @@ I'm a self-taught software developer, continuously striving to improve my skills
 
 
 ## 🛠 Skills
-Languages: Java, Python, C++, SQL, HTML, JavaScript, CSS, TypeScript, Bash, Solidity
+Languages: Java, Python, C++, SQL, HTML, JavaScript, CSS, TypeScript, Bash, Solidity, Groovy
 
-Technologies: GraphQL, Next.JS, React, TailwindCSS, OpenAI APIs, Stripe, Vercel (Edge Runtime), Node.JS, DrizzleORM, LangChain, PayloadCMS, Express, Vite.JS, Expo, React Native, JUnit 5, Spring Boot, Maven, Apollo, Ubuntu, Linux, Hardhat, JSoup, Selenium, Ether.JS, NextAuth, MapBox, Axios
+Technologies: GraphQL, Next.JS, React, Vercel, Node.JS, LangChain, Express, Axios, Vue.JS, JUnit 5, Spring Boot, Maven, Hardhat, Selenium, Ether.JS, Redux, OpenCV, JavaFX, WebSocket
 
-Cloud & Databases: MySQL, MongoDB, NeonDB, PineconeDB, I.P.F.S., AWS S3, Bedrock, Lambda, OpenSearch, DynamoDB
+Cloud & Databases: MySQL, MongoDB, NeonDB, PineconeDB, AWS S3, Bedrock, Lambda, DynamoDB, PostgreSQL
 
-Development and DevOps Tools: Git, SCCM, Docker, Postman, Jenkins, Airbyte, Jira, Bitbucket, SonarQube, FarosAI
+Development Tools & DevOps: Git, Docker, Postman, Jenkins, Jira, Bitbucket, SonarQube, Kubernetes, OpenShift, Helm, Vault
 
-Methodologies & Frameworks: Scrum, Agile, Microservices, Omnichannel, Retrieval Augmented Generation (RAG)
+Methodologies & Architectures: Scrum, Agile, Microservices, Retrieval Augmented Generation (RAG)
 
 
 ## 🔗 Links
